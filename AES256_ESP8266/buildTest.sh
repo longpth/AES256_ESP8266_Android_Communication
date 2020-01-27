@@ -1,0 +1,1 @@
+g++ test.cpp aes.c base64.cpp utilsP4F.cpp -o test
